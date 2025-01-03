@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Op Mantis",
           "status": "start"
         },
       ],
@@ -125,7 +125,12 @@ export default {
           "mech": "Capella Requiem"
         },
         {
-
+          "callsign": "Pragah",
+          "alias": "a",
+          "code": "a",
+          "corpro": "Union",
+          "frame": "MS-06 Zaku II",
+          "mech": "a"
         },
 
       ],
