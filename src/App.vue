@@ -104,7 +104,7 @@ export default {
           "callsign": "Criador",
           "alias": "Daniel Yermakov",
           "code": "dcf6f3c0-f7f0-4edd-a853-498894374c57",
-          "corpro": "Zeon",
+          "corpro": "Union",
           "frame": "MS-06 Zaku II",
           "mech": "G.R.I.M.M"
         },
@@ -112,12 +112,17 @@ export default {
           "callsign": "Doutor",
           "alias": "Azeera Ustra",
           "code": "f145e1e8-9e78-4d88-85e8-52098a84883e",
-          "corpro": "Zeon",
+          "corpro": "Union",
           "frame": "MS-05 Zaku I",
           "mech": "Ruprest" 
         },
         {
-
+          "callsign": "Mensageira",
+          "alias": "Noemi Bondevik",
+          "code": "8f014e96-e7d3-4310-8086-d2702be4ff8b",
+          "corpro": "Union",
+          "frame": "MS-06 Zaku II",
+          "mech": "Capella Requiem"
         },
         {
 
