@@ -126,11 +126,11 @@ export default {
         },
         {
           "callsign": "Pragah",
-          "alias": "a",
-          "code": "a",
+          "alias": "Cléber afonso IV",
+          "code": "0bc47d24-29e9-4c53-8666-d5602a6d7032",
           "corpro": "Union",
-          "frame": "MS-06 Zaku II",
-          "mech": "a"
+          "frame": "MS-05 Zaku I",
+          "mech": "D4C"
         },
 
       ],
