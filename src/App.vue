@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Op Mantis",
+          "name": "Op Spear Point",
           "status": "start"
         },
       ],
@@ -138,8 +138,8 @@ export default {
         "planet": "Ceres",
         "year": "october U.C. 0078",
         "system": "Solar",
-        "gate": "0000",
-        "ring": "Mater Omnia",
+        "gate": "■■■■■",
+        "ring": "■■■■■■■■■■■",
         "headerTitle": "U.M.A.F.",
         "headerSubtitle": "Achiles Project",
         "subheaderTitle": "Special Operations",
