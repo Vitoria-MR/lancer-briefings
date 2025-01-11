@@ -98,11 +98,12 @@ export default {
           "name": "Op Spear Point",
           "status": "start"
         },
+  
       ],
       "pilots": [
         {
           "callsign": "Criador",
-          "alias": "Daniel Yermakov",
+          "alias": "1° Sargento Daniel Yermakov",
           "code": "dcf6f3c0-f7f0-4edd-a853-498894374c57",
           "corpro": "Union",
           "frame": "MS-06 Zaku II",
@@ -110,7 +111,7 @@ export default {
         },
         {
           "callsign": "Doutor",
-          "alias": "Azeera Ustra",
+          "alias": "1° Tenente Azeera Ustra",
           "code": "f145e1e8-9e78-4d88-85e8-52098a84883e",
           "corpro": "Union",
           "frame": "MS-05 Zaku I",
@@ -118,7 +119,7 @@ export default {
         },
         {
           "callsign": "Mensageira",
-          "alias": "Noemi Bondevik",
+          "alias": "1° Tenente Noemi Bondevik",
           "code": "8f014e96-e7d3-4310-8086-d2702be4ff8b",
           "corpro": "Union",
           "frame": "MS-06 Zaku II",
@@ -126,7 +127,7 @@ export default {
         },
         {
           "callsign": "Pragah",
-          "alias": "Cléber afonso IV",
+          "alias": "3° Sargento Cléber afonso IV",
           "code": "0bc47d24-29e9-4c53-8666-d5602a6d7032",
           "corpro": "Union",
           "frame": "MS-05 Zaku I",
