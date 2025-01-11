@@ -106,7 +106,7 @@ export default {
           "alias": "1° Sargento Daniel Yermakov",
           "code": "dcf6f3c0-f7f0-4edd-a853-498894374c57",
           "corpro": "Union",
-          "frame": "MS-06 Zaku II",
+          "frame": "MS-05 Zaku I",
           "mech": "G.R.I.M.M"
         },
         {
