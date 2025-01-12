@@ -94,6 +94,11 @@ export default {
       "events": "",
       "missions": [
         {
+          "slug": "000",
+          "name": "Past Events",
+          "status": "success"
+        },
+        {
           "slug": "001",
           "name": "Op Spear Point",
           "status": "start"
