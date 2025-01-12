@@ -96,7 +96,7 @@ export default {
         {
           "slug": "000",
           "name": "Past Events",
-          "status": "success"
+          "status": ""
         },
         {
           "slug": "001",
