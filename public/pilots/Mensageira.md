@@ -8,3 +8,9 @@ Atualmente, Noemi Bondevik é uma 1° Tenente e todos esperam que, assim como to
 
 ## Trivia
 
+- Ama cantar com todo o coração e faz isso desde criança. Sendo sua maior paixão a música.
+- As pessoas que ela mais ama são seus dois irmãos, Garma e Noelle.
+- Gosta muito de comida apimentada e bebidas alcoólicas.
+- Pratica exercícios quando está muito estressada.
+- É uma ótima jogadora de jogos de ritmo.
+- Sua cor favorita é azul.

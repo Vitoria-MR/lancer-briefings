@@ -128,7 +128,7 @@ export default {
           "code": "8f014e96-e7d3-4310-8086-d2702be4ff8b",
           "corpro": "Union",
           "frame": "MS-06 Zaku II",
-          "mech": "Capella Requiem"
+          "mech": "Phantom of the Opera"
         },
         {
           "callsign": "Pragah",
