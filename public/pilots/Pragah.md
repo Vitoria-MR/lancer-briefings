@@ -1,1 +1,7 @@
-Pragah Test
+Cleber Afonso IV, Filho dos CEO's da Anaheim Eletronics, vivia uma vida luxuosa até o dia do suposto "acidente", um ataque que tinha como alvo seus pais. Com a ajuda e sacrifício de seu mordomo, Cleber conseguiu fugir para uma nave de extração a tempo, ela tinha como destino o planeta Marte, planeta onde seu tio, Tadiro, reside.
+
+Alguns meses após conseguir lidar melhor com o trauma de perder seus entes queridos, Cleber decidiu ir atrás de informações dos assassinos de seus pais, assim indo até uma cidade pacata de mineradores. Lá, ele descobriu sobre uma instituição que lhe lembrava a vestimenta utilizada pelos assassinos, então decidiu investigar mais a fundo, porém, pela falta de recursos na vila, decidiu ir atrás de uma transportadora associada com a suposta instituição que estava investigando, o que o levou a uma cidade grande de Marte, Hesperia Planum.
+
+Após chegar na cidade, descobriu que não possuía fundos para se sustentar por muito tempo na cidade, o que o levou a procurar refugio em uma base abandonada dos seguranças de seus pais, aonde encontrou uma estranha forma de vida artificial, desenvolvida demais para ser uma simples IA. Checando seu codigo fonte, encontrou um nome semelhante a Amália, no qual decidiu apelidar a suposta "IA", pedindo ajuda para a mesma logo depois.
+
+Depois de alguns meses, Cleber, agora conhecido pelo apelido de "Praga", decidiu sair do planeta e buscar ajuda para investigar melhor a morte de sua família, se associando ao grupo militar revolucionário "União", que lhe forneceu algumas informações em troca das habilidades e conhecimento de Praga, o levando ao alistamento militar e se tornar um Piloto do projeto Achiles.
