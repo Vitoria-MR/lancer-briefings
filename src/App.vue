@@ -101,7 +101,7 @@ export default {
         {
           "slug": "001",
           "name": "Op Spear Point",
-          "status": "start"
+          "status": "success"
         },
   
       ],
