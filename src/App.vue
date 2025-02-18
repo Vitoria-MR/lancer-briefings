@@ -107,6 +107,14 @@ export default {
       ],
       "pilots": [
         {
+          "callsign": "Banshee",
+          "alias": "1° Tenente Noemi Bondevik",
+          "code": "8f014e96-e7d3-4310-8086-d2702be4ff8b",
+          "corpro": "Union",
+          "frame": "MS-06 Zaku II",
+          "mech": "Fantasma da Opera"
+        },
+        {
           "callsign": "Criador",
           "alias": "1° Sargento Daniel Yermakov",
           "code": "dcf6f3c0-f7f0-4edd-a853-498894374c57",
@@ -123,20 +131,20 @@ export default {
           "mech": "Ruprest" 
         },
         {
-          "callsign": "Mensageira",
-          "alias": "1° Tenente Noemi Bondevik",
-          "code": "8f014e96-e7d3-4310-8086-d2702be4ff8b",
-          "corpro": "Union",
-          "frame": "MS-06 Zaku II",
-          "mech": "Phantom of the Opera"
-        },
-        {
           "callsign": "Pragah",
           "alias": "3° Sargento Cléber afonso IV",
           "code": "0bc47d24-29e9-4c53-8666-d5602a6d7032",
           "corpro": "Union",
           "frame": "MS-05 Zaku I",
           "mech": "D4C"
+        },
+        {
+          "callsign": "■■■■■■",
+          "alias": "■■■■■■■■■■■■■■■■",
+          "code": "■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■",
+          "corpro": "■■■■■■■■",
+          "frame": "■■■■■■■■■■■■■■",
+          "mech": "■■■■■"
         },
 
       ],
