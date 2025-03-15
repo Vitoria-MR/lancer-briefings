@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "000",
-          "name": "Past Events",
+          "name": "News",
           "status": ""
         },
         {
