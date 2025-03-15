@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "000",
       "current_md": "",
       "events": "",
       "missions": [
@@ -139,12 +139,12 @@ export default {
           "mech": "D4C"
         },
         {
-          "callsign": "■■■■■■",
+          "callsign": "HYBRIS",
           "alias": "■■■■■■■■■■■■■■■■",
           "code": "■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■",
           "corpro": "■■■■■■■■",
           "frame": "■■■■■■■■■■■■■■",
-          "mech": "■■■■■"
+          "mech": "Absolute Solver"
         },
 
       ],
