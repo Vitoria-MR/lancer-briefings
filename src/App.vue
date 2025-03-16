@@ -103,7 +103,12 @@ export default {
           "name": "Op Spear Point",
           "status": "success"
         },
-  
+        {
+          "slug": "002",
+          "name": "Op British",
+          "status": "start"
+        },
+
       ],
       "pilots": [
         {
