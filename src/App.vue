@@ -106,7 +106,7 @@ export default {
         {
           "slug": "002",
           "name": "Op British",
-          "status": "start"
+          "status": "partial-success"
         },
 
       ],
@@ -154,7 +154,7 @@ export default {
 
       ],
       "header": {
-        "planet": "Ceres",
+        "planet": "Earth",
         "year": "october U.C. 0078",
         "system": "Solar",
         "gate": "■■■■■",
