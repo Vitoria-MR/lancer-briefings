@@ -145,10 +145,10 @@ export default {
         },
         {
           "callsign": "HYBRIS",
-          "alias": "Cora ὕβρις",
+          "alias": "Cora",
           "code": "fbd93459-ab0d-■■■■■■■■■■■■■■■■■■■■■■",
           "corpro": "■■■■■■■■",
-          "frame": "■■■■■■■■■■■■■■",
+          "frame": "ὕβρις",
           "mech": "Absolute Solver"
         },
 
