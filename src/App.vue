@@ -106,7 +106,7 @@ export default {
         {
           "slug": "002",
           "name": "Op British",
-          "status": "partial-success"
+          "status": "success"
         },
 
       ],
@@ -145,8 +145,8 @@ export default {
         },
         {
           "callsign": "HYBRIS",
-          "alias": "■■■■■■■■■■■■■■■■",
-          "code": "■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■",
+          "alias": "Cora ὕβρις",
+          "code": "fbd93459-ab0d-■■■■■■■■■■■■■■■■■■■■■■",
           "corpro": "■■■■■■■■",
           "frame": "■■■■■■■■■■■■■■",
           "mech": "Absolute Solver"
